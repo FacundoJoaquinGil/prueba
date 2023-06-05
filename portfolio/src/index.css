@@ -1,0 +1,60 @@
+.imagen_header{
+  width:10%;
+  height:10%;
+}
+
+.div_img{
+ display: flex;
+}
+
+.ftr_img{
+  width: 100px;
+  height: auto;
+}
+
+.main_footer{
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.div_main{
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.card_main{
+width: 50%;
+}
+
+.main_header{
+  background-color: blue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+.boton_contacto{
+color: aliceblue;
+margin: 15px;
+
+}
+
+.form2{
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
